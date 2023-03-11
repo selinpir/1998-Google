@@ -1,0 +1,56 @@
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+    height: max-content;
+}
+body{
+    text-align: center;
+    
+}
+
+#searchdiv{
+    background-color: rgb(238, 238, 238);
+    border: 1px solid rgb(238, 238, 238);
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#bottomdiv{
+    
+    background-color: rgb(98, 179, 170);
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+
+#leftbottomdiv{
+    background-color: rgb(126, 2229, 218);
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#middlebottomdiv{
+
+    background-color: rgb(98, 179, 170);
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#rightbottomdiv{
+ 
+ 
+    background-color: rgb(98, 179, 170);
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+footer{
+    margin-bottom: auto;
+    margin-left: auto; 
+    margin-right: auto;
+}
+p{
+    margin-left: auto; 
+    margin-right: auto;
+}
